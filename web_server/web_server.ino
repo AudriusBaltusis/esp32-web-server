@@ -7,8 +7,8 @@
 #define DHT_SENSOR_PIN  21
 #define DHT_SENSOR_TYPE DHT22
 
-const char *SSID = "ZOSIA";
-const char *PWD = "87654321";
+const char *SSID = "xxxxx";
+const char *PWD = "xxxxx";
 
 const int red_pin = 5;   
 const int green_pin = 18; 
